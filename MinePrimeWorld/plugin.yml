@@ -1,0 +1,5 @@
+name: MinePrimeWorld
+version: 1.0.0
+main: rockzer.dev.Main
+commands: 
+  Social:
